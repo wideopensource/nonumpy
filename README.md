@@ -2,6 +2,4 @@
 
 ### tl:dr
 
-
-
-### More details
+pip3 install nonumpy
